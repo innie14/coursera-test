@@ -13,7 +13,7 @@ h1 {
     position: relative;
 }
 
-.t1{
+.title1{
    border: 1px solid black;
     background-color: violet ;
     font-family: Comic Sans MS;
@@ -23,11 +23,10 @@ h1 {
     width: 100px;
     position: absolute;
     top: 0;
-    right: 0;
-    padding: 0 15px;    
+    right: 0;   
 }
 
-.t2{
+.title2{
    border: 1px solid black;
     background-color: maroon ;
     font-family: Comic Sans MS;
@@ -37,11 +36,10 @@ h1 {
     width: 100px;
     position: absolute;
     top: 0;
-    right: 0;
-    padding: 0 15px;    
+    right: 0;    
 }
 
-.t3{
+.title3{
    border: 1px solid black;
     background-color: yellow ;
     font-family: Comic Sans MS;
@@ -51,8 +49,7 @@ h1 {
     width: 100px;
     position: absolute;
     top: 0;
-    right: 0;
-    padding: 0 15px;    
+    right: 0;    
 }
 
 p{
